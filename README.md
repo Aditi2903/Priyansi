@@ -22,4 +22,4 @@ Getting through the pandemic on chai and code for I have my hands in a lot of th
 - dudette
 
 ### Fun fact ⚡
-I also write about technical stuff. Here are my [Medium](https://medium.com/@iiverveii) and [Dev.to](https://dev.to/iiverveii) profiles.
+I also write about technical stuff. Here are my [Medium](https://medium.com/@iiverveii) and [Dev.to](https://dev.to/iiverveii) profiles
